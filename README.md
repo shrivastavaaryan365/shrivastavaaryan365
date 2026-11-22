@@ -1,5 +1,5 @@
 # 👨‍💻 Aryan Shrivastav
-### 🚀 Aspiring AI & ML Engineer | Web Developer | Tech Explorer
+### 🚀  Web Developer | Tech Explorer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology+%F0%9F%92%BB;Building+Ideas+into+Reality+%F0%9F%9A%80;Future+AI+%26+ML+Engineer+%F0%9F%A4%96" />
