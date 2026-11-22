@@ -1,35 +1,37 @@
 # 👨‍💻 Aryan Shrivastav
-### 🚀  Web Developer | Tech Explorer
+### 🌐 Web Developer | Frontend Developer | Creative Coder
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology+%F0%9F%92%BB;Building+Ideas+into+Reality+%F0%9F%9A%80;Future+AI+%26+ML+Engineer+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Passionate+Web+Developer+%F0%9F%92%BB;Building+Modern+%26+Responsive+Websites;Turning+Ideas+Into+Digital+Experiences+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-🎓 CSE Undergraduate | Bharat Institute of Technology
+🎓 Computer Science & Engineering Student | Bharat Institute of Technology
 
-- 💻 Passionate about coding, technology & innovation.
-- 🤖 Exploring the world of Artificial Intelligence and Machine Learning.
-- 🌐 Building modern and responsive web applications.
-- 🌱 Constantly learning new technologies and improving my skills.
-- 🔥 Love turning creative ideas into real-world projects.
-- 🎯 Dreaming big, coding daily, and growing consistently.
+- 💻 Passionate about Web Development and Modern Technologies.
+- 🌐 Love creating responsive, interactive and user-friendly websites.
+- 🎨 Interested in modern UI/UX design and creative web experiences.
+- 🚀 Building real-world projects to enhance my development skills.
+- 🌱 Currently improving my JavaScript and Frontend Development skills.
+- 🔧 Exploring Full-Stack Web Development.
+- 🤝 Open to collaboration, learning and exciting development opportunities.
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Building
 
-- 🌐 Web Development Projects
-- 🛒 E-commerce & Business Solutions
-- 🤖 Exploring AI & Machine Learning
-- 💡 Improving Problem-Solving Skills
+- 🌐 Modern & Responsive Websites
+- 🛒 E-commerce Websites
+- 🏢 Business & Portfolio Websites
+- ✨ Interactive Web Experiences
+- 💡 Creative Frontend Projects
 
 ## 📊 GitHub Analytics
 
@@ -42,7 +44,7 @@
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -59,12 +61,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<h3 align="center">⚡ "Code. Create. Innovate. Repeat." ⚡</h3>
+<h3 align="center">⚡ "Eat. Sleep. Code. Design. Repeat." ⚡</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=100&section=footer"/>
 </p>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/S3DSwynRE) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aryan Shrivasatav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_srivastav._.aryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Shrivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrivastavaaryan365@gmail.com) 
