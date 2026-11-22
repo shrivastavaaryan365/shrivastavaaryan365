@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00c9ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-00c9ff?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Focus-Web%20Development-00c9ff?style=for-the-badge"/>
 </p>
 
 ---
