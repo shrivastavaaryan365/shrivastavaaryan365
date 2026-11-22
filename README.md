@@ -22,7 +22,7 @@
 ## ⚡ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ## 🚀 What I'm Building
