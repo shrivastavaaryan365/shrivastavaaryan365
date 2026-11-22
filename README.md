@@ -82,7 +82,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00C9FF,100:92FE9D&height=130&section=footer&animation=fadeIn"/>
-</p>## 🌐 Socials:
+</p>## 
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/S3DSwynRE) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aryan Shrivasatav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_srivastav._.aryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Shrivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrivastavaaryan365@gmail.com) 
 
 # 💻 Tech Stack:
