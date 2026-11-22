@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Hey+There!+Welcome+to+My+Profile+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+%7C+Always+Creating" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00c9ff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Web%20Development-00c9ff?style=for-the-badge"/>
 </p>
